@@ -30,17 +30,17 @@ This project was developed as part of my programming coursework to practice Pyth
 ## How to Run
 
 1. Clone or download this repository.
-2. Navigate to:
-   `Menu 2.0 - Project 5/Menu 2.0 - Project 5/`
-3. Run the Python file:
-   `Menu_2.0___Project_5.py`
+2. Open a terminal in the project directory.
+3. Run:
+
+`python menu.py`
+
+Depending on your system, you may need to use:
+
+`python3 menu.py`
+
 4. Follow the menu prompts displayed in the terminal.
 
-From a terminal, you can run:
-
-`python "Menu 2.0 - Project 5/Menu 2.0 - Project 5/Menu_2.0___Project_5.py"`
-
-Depending on your system, you may need to use `python3` instead of `python`.
 
 ## Author
 
