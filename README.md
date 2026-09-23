@@ -19,6 +19,10 @@ A Python menu-driven program that allows users to add and remove values, find ma
 * Sorting and data manipulation
 * Program control flow
 
+## Technologies Used
+
+* Python
+
 ## Purpose
 
 This project was developed as part of my programming coursework to practice Python fundamentals, working with collections, and program control flow.
@@ -26,9 +30,17 @@ This project was developed as part of my programming coursework to practice Pyth
 ## How to Run
 
 1. Clone or download this repository.
-2. Open the project in a Python-compatible development environment.
-3. Run the main Python program.
+2. Navigate to:
+   `Menu 2.0 - Project 5/Menu 2.0 - Project 5/`
+3. Run the Python file:
+   `Menu_2.0___Project_5.py`
 4. Follow the menu prompts displayed in the terminal.
+
+From a terminal, you can run:
+
+`python "Menu 2.0 - Project 5/Menu 2.0 - Project 5/Menu_2.0___Project_5.py"`
+
+Depending on your system, you may need to use `python3` instead of `python`.
 
 ## Author
 
