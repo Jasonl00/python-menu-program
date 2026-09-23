@@ -1,4 +1,4 @@
-# python-menu-program
+Python Menu Program
 
 A Python menu-driven program that allows users to add and remove values, find maximum and minimum values, and sort a list in descending order.
 
